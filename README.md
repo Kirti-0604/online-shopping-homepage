@@ -19,11 +19,5 @@ This is a responsive online shopping homepage built using **HTML** and **CSS**. 
 
 1. Clone the repository or download the ZIP.
 2. Open the `index.html` file in any browser.
-3. Customize and expand as needed!
-
-## 🌐 Live Preview
-
-> Coming soon (optional: [https://your-username.github.io/online-shopping-homepage](https://your-username.github.io/online-shopping-homepage))
-
-## 📂 Folder Structure
+3. Customize and expand as needed.
 
