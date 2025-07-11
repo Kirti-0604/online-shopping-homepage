@@ -1,0 +1,126 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10%;
+  background-color: #2a9d8f;
+  color: white;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin-left: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://via.placeholder.com/1200x400") no-repeat center center/cover;
+  color: white;
+  padding: 80px 10%;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #ff6b6b;
+  color: white;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background-color: #e63946;
+}
+
+.products {
+  padding: 50px 10%;
+  text-align: center;
+}
+
+.products h2 {
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.product-card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  width: 200px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.product-card h3 {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #2a9d8f;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 50px;
+}
