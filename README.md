@@ -1,28 +1,28 @@
-# 🛍️ Online Shopping Website Homepage
+ ----Shopping Website Homepage
+ Overview
 
-This is a responsive online shopping homepage built using **HTML** and **CSS**. It features a modern layout with a navigation bar, hero section, and a grid of featured products — designed to simulate the front page of an e-commerce website.
+This is a simple shopping website homepage built using HTML and CSS.
+It displays a clean layout with a header, navigation bar, banner section, product listings, and a footer — all designed with beginner-friendly and easy-to-understand code.
 
-## 📌 Features
+----Features
 
-- Clean and modern user interface
-- Responsive design for all screen sizes
-- Product cards with hover effects
-- Navigation menu and call-to-action hero section
-- Fully static frontend (HTML + CSS only)
+ Responsive layout using basic HTML and CSS
 
-## 💻 Technologies Used
+ Clean homepage with navigation and banner
 
-- HTML5
-- CSS3 (Flexbox, media queries)
+ Product section with sample items and “Add to Cart” buttons (non-functional)
 
-## 🚀 How to Use
+ Simple, modern design without using JavaScript or advanced CSS
 
-1. Clone the repository or download the ZIP.
-2. Open the `index.html` file in any browser.
-3. Customize and expand as needed.
+Fully static website – easy to host on GitHub Pages
 
+----Technologies Used
 
-## 🔧 Future Enhancements
+-HTML5
+
+-CSS3
+
+----Future Enhancements
 
 - Add interactivity using **JavaScript** (e.g., dynamic cart, filtering, animations)
 - Integrate backend functionality with **Node.js**, **Express**, or **PHP**
@@ -32,6 +32,6 @@ This is a responsive online shopping homepage built using **HTML** and **CSS**. 
 
 > _I'm currently learning JavaScript and backend development, and plan to evolve this static project into a fully functional e-commerce website in future._
 
-## 📄 License
+----License
 
 This project is open source and free to use.
